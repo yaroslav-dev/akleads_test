@@ -5,8 +5,6 @@
     </transition>
   </router-view>
 
-  <a href="http://localhost:5173/?utm_source=akleads&utm_medium=test&utm_campaign=task">UTM capture test</a>
-
 </template>
 
 <script setup>
